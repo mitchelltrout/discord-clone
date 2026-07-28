@@ -19,3 +19,4 @@ client/public/downloads/
 *.sqlite3
 server/db/*.db
 uploads/
+server/uploads/
