@@ -1,0 +1,36 @@
+{
+  "components\\chat\\Message.js -> @emoji-mart/react": {
+    "id": "components\\chat\\Message.js -> @emoji-mart/react",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_emoji-mart_react_dist_module_js.js"
+    ]
+  },
+  "components\\chat\\MessageInput.js -> @emoji-mart/react": {
+    "id": "components\\chat\\MessageInput.js -> @emoji-mart/react",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_emoji-mart_react_dist_module_js.js"
+    ]
+  },
+  "lib\\api.js -> ./stores/authStore": {
+    "id": "lib\\api.js -> ./stores/authStore",
+    "files": [
+      "static/chunks/_app-pages-browser_src_lib_socket_js-_app-pages-browser_src_lib_stores_authStore_js.js"
+    ]
+  },
+  "lib\\socket.js -> ./stores/authStore": {
+    "id": "lib\\socket.js -> ./stores/authStore",
+    "files": []
+  },
+  "lib\\socket.js -> ./stores/connectionStore": {
+    "id": "lib\\socket.js -> ./stores/connectionStore",
+    "files": [
+      "static/chunks/_app-pages-browser_src_lib_stores_connectionStore_js.js"
+    ]
+  },
+  "lib\\voiceConnection.js -> simple-peer": {
+    "id": "lib\\voiceConnection.js -> simple-peer",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_simple-peer_index_js.js"
+    ]
+  }
+}
