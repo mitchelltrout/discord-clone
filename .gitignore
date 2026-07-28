@@ -11,3 +11,11 @@ docs/superpowers/plans/
 
 electron/dist/
 client/public/downloads/
+
+# Live database — real users, password hashes, private DMs, auth tokens.
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+server/db/*.db
+uploads/
